@@ -10,7 +10,8 @@ Feel free to add new projects to this repository
 1. Every folder contain a stater file and final file 
 2. Refer final file and do along on the starter file. (starter file is empty folder structure created for you)
 3. This resource is purely structured based on the project. So you will do many projects as you go!
-4. Run the final file to see projects live before you start coding
+4. Try to do all coding challenges alone so that you can have good grip with working on fundmentals. Solutions can be find in the final folder.
+5. Run the final file to see projects live before you start coding
 
 The code is well documented so that you can understand every thing clearly.
 
