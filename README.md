@@ -1,4 +1,4 @@
-# javascript_zero-hero
+# Javascript_zero-hero 	:computer:
 Javascript_zero-hero is a complete reference for learning javascript from absolute beginner to advanced. I have created projects with vanilla javascript only; no external library or plugins are used.
 Every concept is covered as I can.
 
